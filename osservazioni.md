@@ -2,7 +2,7 @@
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (Pietro Palombi, Andrea Piro, p13-tr0, And-Pir):
 
 URL del repository condiviso:
 
