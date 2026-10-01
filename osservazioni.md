@@ -2,7 +2,7 @@
 
 Gruppo:
 
-Componenti (Pietro Palombi, Andrea Piro, p13-tr0, And-Pir):
+Componenti (Palombi Pietro, Piro Andrea, p13-tr0, And-Pir):
 
 URL del repository condiviso:
 
